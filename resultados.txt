@@ -1,0 +1,60 @@
+Jogador: Otavio
+Vencedor: Adversário
+Disparos do Jogador: 3
+Disparos do Adversário: 3
+Tamanho do Tabuleiro: 2x2
+-----------------------------
+Jogador: Otavio
+Vencedor: Jogador
+Disparos do Jogador: 3
+Disparos do Adversário: 2
+Tamanho do Tabuleiro: 2x2
+-----------------------------
+Jogador: Otavio
+Vencedor: Jogador
+Disparos do Jogador: 3
+Disparos do Adversário: 2
+Tamanho do Tabuleiro: 2x2
+-----------------------------
+Jogador: Oyavio
+Vencedor: Jogador
+Disparos do Jogador: 3
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 2x2
+-----------------------------
+Jogador: Gabriel
+Vencedor: Jogador
+Disparos do Jogador: 4
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 2x2
+-----------------------------
+Jogador: ZORDAN
+Vencedor: Jogador
+Disparos do Jogador: 9
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 3x3
+-----------------------------
+Jogador: Ola
+Vencedor: Jogador
+Disparos do Jogador: 8
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 3x3
+-----------------------------
+Jogador: Otavio
+Vencedor: Jogador
+Disparos do Jogador: 9
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 3x3
+-----------------------------
+Jogador: filha
+Vencedor: Adversário
+Disparos do Jogador: 7
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 3x3
+-----------------------------
+Jogador: Calleri
+Vencedor: Jogador
+Disparos do Jogador: 5
+Disparos do Adversário: 0
+Tamanho do Tabuleiro: 3x3
+-----------------------------
